@@ -1,0 +1,12 @@
+{
+  "name": "bytery",
+  "short_name": "bytery",
+  "description": "A bakery of bytes.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F7F4EF",
+  "theme_color": "#F7F4EF",
+  "icons": [
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
